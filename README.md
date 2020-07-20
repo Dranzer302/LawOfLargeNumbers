@@ -1,0 +1,2 @@
+# LawOfLargeNumbers
+Randn command of python, which prints random normally distributed numbers is verified for 1-sigma deviation, at various stages
